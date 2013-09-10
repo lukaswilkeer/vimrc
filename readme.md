@@ -6,6 +6,7 @@
 
 ### O que tem nele?
 * Um tema bem legal.
+* NERDTree - O navegador de arquivos só ara nerds!
 
 Ainda estou escrevendo. :p
 -------------------
