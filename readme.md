@@ -1,6 +1,7 @@
-""" Este é o meu .vimrc!
+ Este é o meu .vimrc!
+ ======
 "" Como instalar?
-vim +BundleClean +BundleInstall! +qall
+`vim +BundleClean +BundleInstall! +qall`
 "" O que tem nele?
 " Molokai theme.
 " Ainda estou escrevendo. :p
